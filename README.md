@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranav270953
 - 👀 I’m interested in learning more about Web Development.
-- 🌱 I’m currently learning React Native
+- 🌱 Presently I am a react native developer.
 - 📫 How to reach me - topranavt@gmail.com
 
 <!---
